@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @findeevy.
+- 👀 I’m interested in Python, networking, and game development.
+- 🌱 I’m currently pursuing a BS in Computer Science! 
+- 📫 Reach me at findeevy@gmail.com.
