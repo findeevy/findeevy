@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @findeevy.
-- 👀 I’m interested in Python, C#, and Unity.
+- 👀 I’m interested in Python, C#, Godot, and Unity.
 - 🌱 I’m currently pursuing a BS in Computer Science! 
 - 📫 Reach me at findeevy@gmail.com.
