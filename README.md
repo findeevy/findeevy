@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @findeevy.
-- 👀 I’m interested in C++, graphics programming, and Virtual Reality.
+- 👀 I’m interested in C++, GPUs, and Virtual Reality.
 - 🌱 I’m currently pursuing a BS in Computer Science! 
 - 📫 Reach me at findeevy@gmail.com.
