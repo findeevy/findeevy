@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @findeevy.
-- 👀 I’m interested in Systems, GPUs, and Virtual Reality.
+- 👀 I’m interested in Systems, Rendering, GPUs, and Virtual Reality.
 - 🌱 I’m currently pursuing a BS in Computer Science! 
 - 📫 Reach me at findeevy@gmail.com.
