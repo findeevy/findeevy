@@ -3,4 +3,4 @@
 - 🌱 I’m currently pursuing a BS in Computer Science! 
 - 📫 Reach me at findeevy@gmail.com.
 
-[SVG](https://api.githubtrends.io/user/svg/findeevy/langs?time_range=three_months&use_percent=True&compact=True&theme=dark)
+[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/avgupta456/langs](https://api.githubtrends.io/user/svg/findeevy/langs?time_range=three_months&use_percent=True&compact=True&theme=dark)z)]
