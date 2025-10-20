@@ -1,5 +1,5 @@
 - 💻 I’m interested in systems, graphics programming, GPUs, and virtual reality.
-- 🌱 I’m currently pursuing a BS in Computer Science and an MCS in Software Engineering! 
+- 🌱 I’m currently pursuing an MCS in Software Engineering and working on a C++ and Vulkan API renderer! 
 - 👀 Take a peak below to see what I've been working on...
 
 ![Museum](vlk.gif)
