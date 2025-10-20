@@ -1,4 +1,4 @@
-- 💻 I’m interested in systems, rendering, GPUs, and virtual reality.
+- 💻 I’m interested in systems, graphics programming, GPUs, and virtual reality.
 - 🌱 I’m currently pursuing a BS in Computer Science and an MCS in Software Engineering! 
 - 👀 Take a peak below to see what I've been working on...
 
