@@ -1,5 +1,5 @@
 - 💻 I’m interested in systems, graphics programming, GPUs, and virtual reality.
-- 🌱 I’m currently pursuing an MCS in Software Engineering and working on a C++ and Vulkan based Gaussian splat renderer! 
+- 🌱 I’m currently pursuing an Master's Degree in Computer Science and working on a C++ and Vulkan based Gaussian splat renderer! 
 - 👀 Take a peak below to see what I've been working on...
 
 ![Museum](vlk.gif)
